@@ -19,9 +19,8 @@ export class GamesDbImage extends Model<GamesDbImage> {
 }
 
 export class Main {
-  constructor() {
-
-  }
+  constructor() { }
+  
   public async start() {      
     const testOb = await GamesDbImage.findOne();
     testOb.type;
