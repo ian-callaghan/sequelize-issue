@@ -1,0 +1,14 @@
+{
+    "name": "sequelize-issue",
+    "version": "0.0.0",
+    "author": {
+        "name": "Ian Callaghan",
+        "email": "ian.t.callaghan@gmail.com"
+    },
+    "private": false,
+    "dependencies": {
+        "reflect-metadata": "^0.1.13",
+        "sequelize": "^5.1.0",
+        "sequelize-typescript": "^1.0.0-alpha.9"
+    }
+}
